@@ -1,5 +1,4 @@
 using UnityEngine;
-using Animations;
 
 namespace PlayerSpace
 {
@@ -11,28 +10,26 @@ namespace PlayerSpace
 		private bool _isFlip;
 		private int _jumpCount = 2;
 		private MovementController _movementController;
-		private Rigidbody2D _playerRigidbody;
+		internal Rigidbody2D _playerRigidbody;
+		internal bool _isMoving;
 
 		[Header("ColisionInfo")]
 		[SerializeField] private Transform _groundCheckTransform;
 		[SerializeField] private float _groundCheckRadius;
 		[SerializeField] private LayerMask _groundLayerMask;
-		private bool _isGround;
-		
-		private PlayerAnimationController _playerAnimationController;
+		internal bool _isGround;
 		
 		private void Start()
 		{
 			_movementController = GetComponent<MovementController>();
 			_playerRigidbody = GetComponent<Rigidbody2D>();
-			_playerAnimationController = GetComponent<PlayerAnimationController>();
 		}
 
 		private void Update()
 		{
 			Flip();
 			GroudColisionCheck();
-			_playerAnimationController._isMoving = _playerRigidbody.velocity.x != 0;
+			_isMoving = _playerRigidbody.velocity.x != 0;
 		}
 
 		private void FixedUpdate()

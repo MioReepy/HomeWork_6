@@ -1,20 +1,24 @@
+using PlayerSpace;
 using UnityEngine;
 
 namespace Animations
 {
 	public class PlayerAnimationController : MonoBehaviour
 	{
-		private Animator _animator;
-		internal bool _isMoving;
+		private Animator _playerAnimator;
+		private Player _player;
 		
 		private void Start()
 		{
-			_animator = GetComponent<Animator>();
+			_playerAnimator = GetComponent<Animator>();
+			_player = GetComponent<Player>();
 		}
 		
 		private void Update()
 		{
-			_animator.SetBool("isMove", _isMoving);
+			_playerAnimator.SetBool("isMove", _player._isMoving);
+			_playerAnimator.SetBool("isGrounded", _player._isGround);
+			_playerAnimator.SetFloat("velosityY", _player._playerRigidbody.velocity.y);
 		}
 	}
 }
