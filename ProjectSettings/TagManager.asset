@@ -15,8 +15,8 @@ TagManager:
   - BackGround
   - Enemy
   - Fruits
-  - 
-  - 
+  - Trap
+  - Finish
   - 
   - 
   - 
@@ -44,9 +44,6 @@ TagManager:
   - name: BackGround
     uniqueID: 1540220983
     locked: 0
-  - name: Ground
-    uniqueID: 1787840499
-    locked: 0
   - name: Enemy
     uniqueID: 242446093
     locked: 0
@@ -55,4 +52,13 @@ TagManager:
     locked: 0
   - name: Fruits
     uniqueID: 4104170615
+    locked: 0
+  - name: Trap
+    uniqueID: 1230182409
+    locked: 0
+  - name: Ground
+    uniqueID: 1787840499
+    locked: 0
+  - name: Finish
+    uniqueID: 3860922525
     locked: 0

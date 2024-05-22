@@ -1,4 +1,4 @@
-using Enemy;
+using EnemySpace;
 using Fruits;
 using TMPro;
 using UnityEngine;
@@ -9,13 +9,13 @@ namespace GameManager
 	{
 		[SerializeField] private TextMeshProUGUI _enemyDate;
 		[SerializeField] private TextMeshProUGUI _bonusDate;
-		private int _commonBonus;
-		private int _commonEnemy;
+		internal static int _commonBonus;
+		internal static int _commonEnemy;
 
 		private void OnEnable()
 		{
-			EnemySnail.OnDead += EnemySnailOnDead;
-			Strawberry.OnGetBonus += StrawberryOnGetBonus;
+			EnemyContact.OnDead += EnemySnailOnDead;
+			Fruit.OnGetBonus += StrawberryOnGetBonus;
 		}
 
 		private void EnemySnailOnDead()
@@ -26,14 +26,21 @@ namespace GameManager
 
 		private void StrawberryOnGetBonus()
 		{
-			_commonBonus += Strawberry._bonus;
+			_commonBonus += Fruit._bonus;
 			_bonusDate.text = _commonBonus.ToString();
+		}
+		
+		private void ResetResults()
+		{
+			_commonBonus = 0;
+			_commonEnemy = 0;
 		}
 
 		private void OnDisable()
 		{
-			EnemySnail.OnDead -= EnemySnailOnDead;
-			Strawberry.OnGetBonus -= StrawberryOnGetBonus;
+			EnemyContact.OnDead -= EnemySnailOnDead;
+			Fruit.OnGetBonus -= StrawberryOnGetBonus;
+			ResetResults();
 		}
 	}
 }
