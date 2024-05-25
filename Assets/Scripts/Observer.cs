@@ -8,8 +8,6 @@ namespace GameManager
 	public class Observer : MonoBehaviour
 	{
 		[SerializeField] private TextMeshProUGUI _commonDate;
-		internal static int _commonFruitBonus;
-		internal static int _commonEnemyBonus;
 		internal static int _commonBonus;
 
 		private void OnEnable()
@@ -20,22 +18,19 @@ namespace GameManager
 
 		private void EnemySnailOnDead()
 		{
-			_commonEnemyBonus += Enemy._bonus;
-			_commonBonus += _commonEnemyBonus;
+			_commonBonus += Enemy._bonus;
 			_commonDate.text = _commonBonus.ToString();
 		}
 
 		private void StrawberryOnGetBonus()
 		{
-			_commonFruitBonus += Fruit._bonus;
-			_commonBonus += _commonFruitBonus;
+			_commonBonus += Fruit._bonus;
 			_commonDate.text = _commonBonus.ToString();
 		}
 		
 		private void ResetResults()
 		{
-			_commonFruitBonus = 0;
-			_commonEnemyBonus = 0;
+			_commonBonus = 0;
 		}
 
 		private void OnDisable()
