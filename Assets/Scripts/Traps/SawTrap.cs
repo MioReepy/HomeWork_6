@@ -12,8 +12,8 @@ namespace TrapSpace
 		private float _endSawTrapPosition;
 		private void Start()
 		{
-			_startSawTrapPosition = transform.position.x - _waySawTrap.GetComponent<Renderer>().bounds.size.x / 2;
-			_endSawTrapPosition = transform.position.x + _waySawTrap.GetComponent<Renderer>().bounds.size.x / 2;
+			_startSawTrapPosition = transform.position.x + _waySawTrap.GetComponent<Renderer>().bounds.size.x / 2;
+			_endSawTrapPosition = transform.position.x - _waySawTrap.GetComponent<Renderer>().bounds.size.x / 2;
 		}
 
 		private void Update()
