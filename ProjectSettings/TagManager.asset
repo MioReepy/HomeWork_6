@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -17,7 +19,7 @@ TagManager:
   - Fruits
   - Trap
   - Finish
-  - 
+  - Bullet
   - 
   - 
   - 
@@ -61,4 +63,7 @@ TagManager:
     locked: 0
   - name: Finish
     uniqueID: 3860922525
+    locked: 0
+  - name: Bullet
+    uniqueID: 2348269775
     locked: 0

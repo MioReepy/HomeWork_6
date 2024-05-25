@@ -14,7 +14,7 @@ namespace UIController
 		{
 			Time.timeScale = 0f;
 			_restartButton.onClick.AddListener(base.OnRestartButtonClick);
-			_levelResult.text = $"Enemies: {Observer._commonEnemy} \n Bonus: {Observer._commonBonus}";
+			_levelResult.text = $"Enemies: {Observer._commonEnemyBonus} \n Bonus: {Observer._commonFruitBonus}";
 		}
 	}
 }

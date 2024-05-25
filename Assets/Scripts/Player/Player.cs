@@ -7,7 +7,7 @@ namespace PlayerSpace
 		[Header("Movement")] 
 		[SerializeField] private float _speed = 4f;
 		[SerializeField] private float _jumpForce = 5f;
-		private bool _isFlip;
+		internal bool _isFlip;
 		private int _jumpCount = 2;
 		private MovementController _movementController;
 		internal Rigidbody2D _playerRigidbody;
@@ -18,23 +18,26 @@ namespace PlayerSpace
 		[SerializeField] private float _groundCheckRadius;
 		[SerializeField] private LayerMask _groundLayerMask;
 		internal bool _isGround;
-		
+
+		[Header("PlayerDate")] 
+		[SerializeField]
+		internal int _countHealth = 3;
+
+		static public Player SingletonPlayer;
+		private void Awake() => SingletonPlayer = this;
+
 		private void Start()
 		{
 			_movementController = GetComponent<MovementController>();
 			_playerRigidbody = GetComponent<Rigidbody2D>();
 		}
 
-		private void Update()
-		{
-			Flip();
-			GroudColisionCheck();
-			_isMoving = _playerRigidbody.velocity.x != 0;
-		}
-
 		private void FixedUpdate()
 		{
+			GroudColisionCheck();
+			_isMoving = _playerRigidbody.velocity.x != 0;
 			_playerRigidbody.velocity = new Vector2(_movementController._movementInput * _speed, _playerRigidbody.velocity.y);
+			Flip();
 		}
 
 		private void Flip()

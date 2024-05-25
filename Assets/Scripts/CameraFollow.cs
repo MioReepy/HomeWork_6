@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 using EnemySpace;
 
@@ -12,7 +11,7 @@ namespace GameManager
 
 		private void OnEnable()
 		{
-			EnemyContact.OnKill += OnStopCameraMoving;
+			EnemyContact.OnHit += OnStopCameraMoving;
 		}
 
 		private void OnStopCameraMoving()
@@ -24,12 +23,12 @@ namespace GameManager
 		{
 			Vector3 differentPosition = _playerPosition.position + _offSet;
 			Vector3 movePosition = Vector3.Lerp(transform.position, differentPosition, _smoothSpeed);
-			transform.position = new Vector3(Mathf.Clamp(movePosition.x, 0, 28), 0f, transform.position.z);
+			transform.position = new Vector3(Mathf.Clamp(movePosition.x, 0f, 30f), Mathf.Clamp(movePosition.y, -33.1f, 0f), transform.position.z);
 		}
 
 		private void OnDisable()
 		{
-			EnemyContact.OnKill -= OnStopCameraMoving;
+			EnemyContact.OnHit -= OnStopCameraMoving;
 		}
 	}
 }

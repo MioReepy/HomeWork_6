@@ -2,6 +2,7 @@ using UnityEngine;
 using EnemySpace;
 using TrapSpace;
 using GameManager;
+using PlayerSpace;
 
 namespace UIController
 {
@@ -14,8 +15,7 @@ namespace UIController
 
         private void OnEnable()
         {
-            EnemyContact.OnKill += OnGameOverWindowOpen;
-            Trap.OnKill += OnGameOverWindowOpen;
+            HealthCounter.OnDead += OnGameOverWindowOpen;
             Finish.OnWin += OnCompleteLevelOpen;
         }
 
@@ -30,6 +30,7 @@ namespace UIController
             Time.timeScale = 0;
             Instantiate(_gameOverWindow, _canvas.transform, false);
         }
+
         public void OnRestartWindowOpen()
         {
             Time.timeScale = 0;
@@ -38,8 +39,7 @@ namespace UIController
 
         private void OnDisable()
         {
-            EnemyContact.OnKill -= OnGameOverWindowOpen;
-            Trap.OnKill -= OnGameOverWindowOpen;
+            HealthCounter.OnDead -= OnGameOverWindowOpen;
             Finish.OnWin -= OnCompleteLevelOpen;
         }
     }

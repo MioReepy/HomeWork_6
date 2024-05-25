@@ -1,16 +1,11 @@
+using GunSpace;
 using UnityEngine;
 
 namespace PlayerSpace
 {
 	public class MovementController : MonoBehaviour
 	{
-		private Player _player;
 		internal float _movementInput;
-
-		private void Start()
-		{
-			_player = GetComponent<Player>();
-		}
 
 		private void Update()
 		{
@@ -18,7 +13,12 @@ namespace PlayerSpace
 
 			if (Input.GetKeyDown(KeyCode.Space))
 			{
-				_player.Jump();
+				Player.SingletonPlayer.Jump();
+			}
+
+			if (Input.GetKeyDown(KeyCode.F))
+			{
+				Gun._isPoof = true;
 			}
 		}
 	}
