@@ -22,14 +22,14 @@ namespace GameManager
 		{
 			_commonEnemyBonus += Enemy._bonus;
 			_commonBonus += _commonEnemyBonus;
-			_commonDate.text = _commonEnemyBonus.ToString();
+			_commonDate.text = _commonBonus.ToString();
 		}
 
 		private void StrawberryOnGetBonus()
 		{
 			_commonFruitBonus += Fruit._bonus;
 			_commonBonus += _commonFruitBonus;
-			_commonDate.text = _commonFruitBonus.ToString();
+			_commonDate.text = _commonBonus.ToString();
 		}
 		
 		private void ResetResults()

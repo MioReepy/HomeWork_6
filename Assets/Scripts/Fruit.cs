@@ -5,7 +5,7 @@ namespace Fruits
 {
 	public class Fruit : MonoBehaviour
 	{
-		internal static int _bonus = 50;
+		internal static int _bonus = 10;
 		public delegate void GetBonus();
 		public static event GetBonus OnGetBonus;
 
