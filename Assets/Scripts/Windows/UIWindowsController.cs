@@ -1,8 +1,5 @@
 using UnityEngine;
-using EnemySpace;
-using TrapSpace;
 using GameManager;
-using PlayerSpace;
 
 namespace UIController
 {

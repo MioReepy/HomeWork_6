@@ -1,9 +1,7 @@
-using System;
 using EnemySpace;
 using PlayerSpace;
 using TrapSpace;
 using UnityEngine;
-using UnityEngine.PlayerLoop;
 
 namespace GameManager
 {
