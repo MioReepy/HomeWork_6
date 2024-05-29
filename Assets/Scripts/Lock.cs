@@ -1,26 +1,18 @@
-using System;
 using UnityEngine;
 
 namespace GameManager
 {
 	public class Lock : MonoBehaviour
 	{
-		private void OnEnable()
-		{
-			Key.OnKeyReceived += OnFinishEnable;
-		}
+		[SerializeField] private GameObject _wall;
 		
-		private void OnFinishEnable()
+		private void OnTriggerEnter2D(Collider2D other)
 		{
 			if (KeyCounter._keyCount <= 0)
 			{
 				gameObject.SetActive(false);
+				_wall.SetActive(false);
 			}
-		}
-		
-		private void OnDisable()
-		{
-			Key.OnKeyReceived -= OnFinishEnable;
 		}
 	}
 }
