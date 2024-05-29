@@ -10,9 +10,9 @@ namespace GameManager
 			Key.OnKeyReceived += OnFinishEnable;
 		}
 		
-		private void OnFinishEnable(int count)
+		private void OnFinishEnable()
 		{
-			if (count <= 0)
+			if (KeyCounter._keyCount <= 0)
 			{
 				gameObject.SetActive(false);
 			}

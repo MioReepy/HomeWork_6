@@ -5,14 +5,12 @@ namespace GameManager
 {
 	public class Key : MonoBehaviour
 	{
-		internal static int _keyCount;
-
-		public delegate void KeyReceived(int count);
+		public delegate void KeyReceived();
 		public static event KeyReceived OnKeyReceived;
 
 		private void OnEnable()
 		{
-			_keyCount++;
+			KeyCounter._keyCount++;
 		}
 
 		private void OnTriggerEnter2D(Collider2D other)
@@ -25,8 +23,8 @@ namespace GameManager
 
 		private void OnDisable()
 		{
-			_keyCount--;
-			OnKeyReceived?.Invoke(_keyCount);
+			KeyCounter._keyCount--;
+			OnKeyReceived?.Invoke();
 		}
 	}
 }

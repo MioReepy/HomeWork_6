@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ground
   - Enemy
+  - Target
   layers:
   - Default
   - TransparentFX
@@ -20,7 +21,7 @@ TagManager:
   - Trap
   - Finish
   - Gun
-  - 
+  - Target
   - 
   - 
   - 
@@ -66,4 +67,7 @@ TagManager:
     locked: 0
   - name: Gun
     uniqueID: 2348269775
+    locked: 0
+  - name: Target
+    uniqueID: 774374649
     locked: 0

@@ -1,17 +1,17 @@
-using System;
 using UnityEngine;
 
 namespace GameManager
 {
 	public class KeyCounter : MonoBehaviour
 	{
-		[SerializeField] private GameObject _key;
+		[SerializeField] private GameObject _keyTarget;
+		internal static int _keyCount;
 		
 		private void Start()
 		{
-			for (int i = 0; i < Key._keyCount; i++)
+			for (int i = 0; i < _keyCount; i++)
 			{
-				Instantiate(_key).transform.SetParent(gameObject.transform);
+				Instantiate(_keyTarget).transform.SetParent(gameObject.transform);
 			}
 		}
 
@@ -20,14 +20,13 @@ namespace GameManager
 			Key.OnKeyReceived += PlayerOnKey;
 		}
 
-		private void PlayerOnKey(int count)
+		private void PlayerOnKey()
 		{
-			Destroy(gameObject.transform.GetChild(transform.childCount - 1).gameObject);
 		}
 
 		private void OnDisable()
 		{
-			Key.OnKeyReceived-= PlayerOnKey;
+			Key.OnKeyReceived -= PlayerOnKey;
 		}
 	}
 }
