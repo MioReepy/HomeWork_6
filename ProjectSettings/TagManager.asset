@@ -19,7 +19,7 @@ TagManager:
   - Fruits
   - Trap
   - Finish
-  - Bullet
+  - Gun
   - 
   - 
   - 
@@ -64,6 +64,6 @@ TagManager:
   - name: Finish
     uniqueID: 3860922525
     locked: 0
-  - name: Bullet
+  - name: Gun
     uniqueID: 2348269775
     locked: 0

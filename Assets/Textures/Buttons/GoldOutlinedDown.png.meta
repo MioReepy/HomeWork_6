@@ -1,0 +1,1271 @@
+fileFormatVersion: 2
+guid: bd16e0ade4d99704db7403aed6ffe9c2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GoldOutlinedDown_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be701faa604e2b45983f44dea7f80f1
+      internalID: -2130869837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b982926f6ed2347b44a81a20eed317
+      internalID: 1879948725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe48a73a777daa47a8cab2d5276606c
+      internalID: 601661485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07750d1feac1b4349a40f6de4959651c
+      internalID: 1163486071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acdc294b2e0c3d4e890c6dd45896592
+      internalID: 1508978019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6314af016ccd44eacb5238f1556d2a
+      internalID: 104393260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2c555b203a14d4999df4c5fbd5270a
+      internalID: 1271756354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e901f8ecaa05b4780bd9b3d34f12c7
+      internalID: 2121062972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa831d2511e9d3468eea68291edf2f1
+      internalID: 829347322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109b5d918511f2145bb7fa2a26d9e46b
+      internalID: -987419914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a962d9b7c0ac2c4ca39f1764a0fc0f4
+      internalID: -994228348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ee7fb405db1a74fb3a10dadfa01115
+      internalID: 1295380879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 14
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17747133cf1237e469b61d1b06483815
+      internalID: 2071893247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c7877edb2a0474db98b7a1eeefecba
+      internalID: 743440703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65bc77d39d2cb94ba2b17fc6756c57d
+      internalID: -682151319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 13
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a011c0fe94cd545b69f72f61e28cbc
+      internalID: -1839564233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a7fef724df45c42873c8b02a4948ae
+      internalID: -81676450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 12
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43df5196f4de33345b34b8bccc5f6039
+      internalID: 1927277790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a04990f2eb20a4dbc8c54670e5eecd
+      internalID: -225438758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 11
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5530e2c267439864cb50a688e2a47898
+      internalID: -2047517387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008802e877878b74bb22b85f7434fee6
+      internalID: -1598476489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 10
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768ee82f3b6d1a24d919bc16df460622
+      internalID: 767350540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81feda43c82fd8247bc88f8b3acd3717
+      internalID: 634386516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 9
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63f9d0be1de4ff4a8521b540913fecb
+      internalID: -1528121494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7b4f34353101b4fba75927978fe0a9
+      internalID: 141647275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 8
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c388eb4b54de545a99934ed89843cb
+      internalID: 2070947070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf79d3513f5d4740aa5810b6087e5b8
+      internalID: 824636694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 7
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafe332e5253c8d4faf4f7972ecfdb13
+      internalID: -485295659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82bcb180b4d49145a0145585e2867a3
+      internalID: 2024364042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c91702fb62ecd4ba52e7ed40c21b1f
+      internalID: 1884947158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdf5ac2d74e0b14caab0a4caf61f4bb
+      internalID: 1760723408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_31
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b981461028ed14a8f9a44289b626a9
+      internalID: -941270524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1252af866ad14df4d94f6e080599b204
+      internalID: 161016506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df5a9b06cc431a43aa7896cbf262779
+      internalID: -1313319399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb2902207bcc7e4aaf7f03ec5f0e6bc
+      internalID: 77891256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c578c54354ff5874ebfa41bcb8399ac0
+      internalID: 2114709476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc84b4350873c4f4baa6d153e3288fd4
+      internalID: -1295830184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12108c4c7b3c6304d8f53af0466a6051
+      internalID: -1992395977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e471fbf53dfb8584dbbabe333b128d6d
+      internalID: 335260319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_39
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acd16b33ca28b041b264b91be010d37
+      internalID: 41253438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23b612cb74ad75418bac7fd6cb94a2f
+      internalID: 184287342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b149e3808eb57d429e321bd539da221
+      internalID: 112779042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d44371368ebb3a47a153cd1aab77248
+      internalID: 433239673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78ec0d92b708ef4c9fae8b14a8b5906
+      internalID: 660443449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b426b5c6da194954fa58aaf1de0ddeef
+      internalID: -1497014596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff6d378586af3d4fad2f1a28ac2653c
+      internalID: -1637953817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bd8cb6b5d7bd74ba883a0ebdbb93d8
+      internalID: 358183573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac59c8973537f644aa35af06b562255d
+      internalID: -217277104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80bbbfff7700df4f8258af9ec1aa10f
+      internalID: 13544380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b25b95c45dc3c4fb1f3eb2f62f0c74
+      internalID: 512221733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_50
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303af0142e8aa444eb3b87a85600427b
+      internalID: -1324616362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldOutlinedDown_51
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d16aa347329a364a879c8bc03279509
+      internalID: -1115562265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GoldOutlinedDown_0: -2130869837
+      GoldOutlinedDown_1: 1879948725
+      GoldOutlinedDown_10: -994228348
+      GoldOutlinedDown_11: 1295380879
+      GoldOutlinedDown_12: 2071893247
+      GoldOutlinedDown_13: 743440703
+      GoldOutlinedDown_14: -682151319
+      GoldOutlinedDown_15: -1839564233
+      GoldOutlinedDown_16: -81676450
+      GoldOutlinedDown_17: 1927277790
+      GoldOutlinedDown_18: -225438758
+      GoldOutlinedDown_19: -2047517387
+      GoldOutlinedDown_2: 601661485
+      GoldOutlinedDown_20: -1598476489
+      GoldOutlinedDown_21: 767350540
+      GoldOutlinedDown_22: 634386516
+      GoldOutlinedDown_23: -1528121494
+      GoldOutlinedDown_24: 141647275
+      GoldOutlinedDown_25: 2070947070
+      GoldOutlinedDown_26: 824636694
+      GoldOutlinedDown_27: -485295659
+      GoldOutlinedDown_28: 2024364042
+      GoldOutlinedDown_29: 1884947158
+      GoldOutlinedDown_3: 1163486071
+      GoldOutlinedDown_30: 1760723408
+      GoldOutlinedDown_31: -941270524
+      GoldOutlinedDown_32: 161016506
+      GoldOutlinedDown_33: -1313319399
+      GoldOutlinedDown_34: 77891256
+      GoldOutlinedDown_35: 2114709476
+      GoldOutlinedDown_36: -1295830184
+      GoldOutlinedDown_37: -1992395977
+      GoldOutlinedDown_38: 335260319
+      GoldOutlinedDown_39: 41253438
+      GoldOutlinedDown_4: 1508978019
+      GoldOutlinedDown_40: 184287342
+      GoldOutlinedDown_41: 112779042
+      GoldOutlinedDown_42: 433239673
+      GoldOutlinedDown_43: 660443449
+      GoldOutlinedDown_44: -1497014596
+      GoldOutlinedDown_45: -1637953817
+      GoldOutlinedDown_46: 358183573
+      GoldOutlinedDown_47: -217277104
+      GoldOutlinedDown_48: 13544380
+      GoldOutlinedDown_49: 512221733
+      GoldOutlinedDown_5: 104393260
+      GoldOutlinedDown_50: -1324616362
+      GoldOutlinedDown_51: -1115562265
+      GoldOutlinedDown_6: 1271756354
+      GoldOutlinedDown_7: 2121062972
+      GoldOutlinedDown_8: 829347322
+      GoldOutlinedDown_9: -987419914
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

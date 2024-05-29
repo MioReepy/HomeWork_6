@@ -1,0 +1,5495 @@
+fileFormatVersion: 2
+guid: 84946928ac3d18840872a791c2cca35b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 1
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 0
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 5
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 6, y: 6, z: 6, w: 6}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ToggleGold_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111e136d828062340b5eebb15d8bd8e0
+      internalID: -1016423272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31ddb64096b99c4b8d496ed014e9e23
+      internalID: 711231649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b0fc14a8cd5a245a35a4a3feb7accd
+      internalID: 1871206002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a49cae818c024f4e9372cd819728a3f
+      internalID: -159217538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932f813fe7c5c6f4887cb198a6a0516a
+      internalID: -99769215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b0b12501405b448b1b707e4843aa6c
+      internalID: 108763154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6a85ef16fedb447bfe8032f22a01bb
+      internalID: -2132305600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8b3dedb4d79ab4995cf12d548e78d5
+      internalID: 628516381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426f0d5d6c272114ab823e909118d138
+      internalID: 1213465353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33bf8ab92ca594479cde40a1e8a0f30
+      internalID: -1017447334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8290bbd896bab4fae8694b1bbdb45d
+      internalID: 870572219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 15
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13801f0cff94e0142bc0ec0123a2d77b
+      internalID: 1926415290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 14
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af25360722ee8034b9b029abaa0d9942
+      internalID: -1287785627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 14
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae933bb7121b7944938a8988e16d4d4
+      internalID: -1473059002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 14
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46331c4b2d289cb4281a24022a9bf24e
+      internalID: -1377416514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 14
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10d781fe01bf884597f26198bb4bb3d
+      internalID: -1128922178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 14
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee7c19681febd14ab009e8aa247a1e2
+      internalID: 1471279030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 14
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b1d4cabd2001d42ae657004c4a7cdf
+      internalID: -635671612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 14
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483f1a3ec5ecc5440b9ffb4d8e6ce90a
+      internalID: -1916605968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 14
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcb4a857e3721c46b9bfe0f08c8620e
+      internalID: 808227888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 14
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a4a5baed8217f449f8ac8427aa323a
+      internalID: 307171345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 14
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1122e48e86677488e98cb7b8b3d704
+      internalID: 1730376112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 14
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd6175aaff3e6740b3463706e7eec20
+      internalID: 1899437499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7508d4515140148bcbd7c2cbb61d63
+      internalID: 1078396446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 14
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18c405e5de2d8d46b76789a3f94c849
+      internalID: 68761210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddeaaf294ef75f4a8a4c1b6bc4ecf18
+      internalID: -939627591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f31811a11bd404b9ff06820084fa97
+      internalID: -1260033058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 13
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba65460ff5d98c84bbbbb0dce977e614
+      internalID: 573362833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 13
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae2bb23fbffd4740889a47673ff3dae
+      internalID: 1774387879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 13
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64c33374e265ea4a9400c1c85402c7a
+      internalID: -548042795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 13
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0124e2e6e598130468f5c4555ba31ecf
+      internalID: 1695596101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 13
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbfe389487dcfd47b9343586f21f07c
+      internalID: -390514112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 13
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcfb038ec090004aa158880dcce02d7
+      internalID: 2132213239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 13
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf914e4b43b9d643a6e6961ee785758
+      internalID: 1299679481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 13
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc9ccbf8c34ca443ad1d25d3f6fc00a
+      internalID: -534231806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 13
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec664fe67de154a4493a6d78f70aefe4
+      internalID: -1269133542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 13
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f811b6d3467db4197e029a3eaa741a
+      internalID: -1271287004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 13
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7573b56671a9b46845a8f07ed1fe75
+      internalID: 1103339371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_38
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 13
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4104a8769d0a740aa54b0f59cc8f15
+      internalID: -637248460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_39
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 13
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dd4d47e8650964ab80c9f7c6ce2858
+      internalID: 613276033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_40
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 13
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514ac92bea2e1044da7af20a205d7fc9
+      internalID: -950570108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_41
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 13
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1687b06d2a12942940bf9d14032050
+      internalID: 1835923462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e788b9186a202848bf803dc31aad8c3
+      internalID: -1909627005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bc58e9278de174d8a5496e63d8f65a
+      internalID: -257502159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f936d5ccee0b9540b4cd6242b43067a
+      internalID: 2057441630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 12
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309d981dcc2bad646a2eb0089fb40d39
+      internalID: -208194356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_46
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 12
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983e43b782374b14cbcba83a6c8009e6
+      internalID: 828516999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_47
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 12
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8863aaf567027f24fad1757dda1502d1
+      internalID: -552153160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7337d7cc2884a74294af03c08c3c364
+      internalID: -354064240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6798473c666dd840935934d8df382c2
+      internalID: -243662043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca0126f691f6cb4daeadf1e69f30f6c
+      internalID: -1588625448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 12
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9b2e5cb73cbb446b461ff7932f08da
+      internalID: -1023763446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cc6bb6f2e6c744c8809c89af44b5be
+      internalID: 1935042979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_53
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941c5348efac9ce4683a9060b1733f4b
+      internalID: 551271726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_54
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ac58b14f6d1fd418b5a900b0092d31
+      internalID: -1231923927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_55
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 12
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ae3785b68d2ef498fb25a27b5551d9
+      internalID: -1843245625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_56
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 12
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68d11a7223cd704eae19126f41d5d06
+      internalID: 993147143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_57
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 12
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d696bf0bf1671dd4ea98c44b4deb5633
+      internalID: -1873999580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c33b0cf15dc53e40924f0131a5558d9
+      internalID: 936646817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da013de52b5ba5b469be915c76f1381f
+      internalID: 1883610226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e882c3fde02b02e4c9114c2c37138f0c
+      internalID: -1614841081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 11
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15e407ab067f3445a8b500c32f08ff6
+      internalID: 982197338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_62
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 11
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197f4431d0421ee4581e0d1b3d932277
+      internalID: -202879678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_63
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac61ff1d108473d4694325ec9eaa1308
+      internalID: 571281364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_64
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 11
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8e3bca0c30e6d4d8da421cb6d935ac
+      internalID: -1623926396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_65
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557facff0198ba5438ac6e00a8786756
+      internalID: 894639356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_66
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0c685dc6132154394dcdbaffc5ef1c
+      internalID: 1581981381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_67
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dcc1b1aca4b354f8ac6ad016586ad2
+      internalID: 1584221752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_68
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 11
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f642e95db6237f45a974e129e5f5f5b
+      internalID: 996120371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_69
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24a95ab4ac8aed418fb32c0a4052823
+      internalID: 1793407023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_70
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 11
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2197acda7e8b4841aeb1eb210c3a58a
+      internalID: 1427421666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_71
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 11
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09ed2bc952334d46bd119086a5e1e69
+      internalID: -522904013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_72
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 11
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd15f0fcabebb9840a0aadb05f52cd39
+      internalID: -862367277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_73
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 11
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c2eca2688b710489d2a2a9ec5dd367
+      internalID: 2036330108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ea02b75241f244ea0f0b7f05787a36
+      internalID: 1062693863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb3d4a0aa252fd429b3ebdb9561e7eb
+      internalID: 1451802116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_76
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26516252f74c9f641ba92ec34a866aeb
+      internalID: 1821764756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_77
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 10
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8df44eeace14e849b7b5d037823b3d7
+      internalID: 807746876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_78
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 10
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aeaffd1b662b645b7ddeacd88b174e
+      internalID: -224088195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_79
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 10
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872462f7ce17a3f49846e0b7a3550fa9
+      internalID: -1590085709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 10
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04549529004d3cf4c92d8d01a23e48b9
+      internalID: -184712954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_81
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 10
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ace1e1edf5c3a41b5bcdef7cec5441
+      internalID: -1946016517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_82
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41d5bbb2ca274e4aa3628144bf6bcc0
+      internalID: -2020668792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_83
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 10
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229f18c9301304345bcfb70d3901f48e
+      internalID: -1803919741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302aafa3445da524b9d2c2aabd8d42ab
+      internalID: 59224887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_85
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44127f80f3f96a4abfa9c118cf5742b
+      internalID: -657905480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_86
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f34e922af03b84ca590d8454f78236
+      internalID: -1233508779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_87
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 10
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98f054618af0b346b159fac4c3645c9
+      internalID: 1199373133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_88
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 10
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1554fc13d37b84eb7bdddb77dcc1a8
+      internalID: -1236428105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_89
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 10
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf898213aff37741a44156dac9e5a5b
+      internalID: -1303286202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb4fa839913d3a4d8e09ccd7b463b99
+      internalID: 1197779141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_91
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db077b62dcfa53b4980654613882a337
+      internalID: 1505878506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_92
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 9
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d4c891aad3aa2448735e3089456b1e
+      internalID: 853311897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_93
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a393f392dabfb4d896e494d65f449f
+      internalID: -899235682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_94
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 9
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7fb3dc46056994697310b55b2ab584
+      internalID: -1440033416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_95
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 9
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab0f1eea3b9a874795ac80795828aaf
+      internalID: 1589252683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_96
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 9
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb15d2066ad4d340b1208e91a7029d7
+      internalID: -1457292471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_97
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d5626a792d36642b55dbe654864841
+      internalID: 1032901484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_98
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f6738420afd4e4c9109089e813bb1c
+      internalID: 823724464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_99
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9472c1240d99fde4dbeb7184796220e5
+      internalID: 402748795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_100
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee31f3907f14474989846b77a55beba
+      internalID: -112324516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_101
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b481df53cce39f4a99c2feffe5e91f4
+      internalID: -425939803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_102
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 9
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e86f3c3454133a49ba0f70a9e6dfc54
+      internalID: -739752118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_103
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 9
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfea0414657ede549bded015fda7fe87
+      internalID: 2013502061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_104
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 9
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44de523123cfb8f44b6b53d5dc998ee4
+      internalID: 403522623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_105
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 9
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5fe53c54dab1a4ab85fa9619bd7ff9
+      internalID: 172686851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6d0d6cb9cf05b4f8e478f16e57f1fe
+      internalID: 1073166823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_107
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36397e3fdfc58274dbaa91dc39d71461
+      internalID: -1984820912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_108
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5012658ecd513da4aa11aa6352c8993b
+      internalID: 1953670290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_109
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 8
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75722bf06e6fbc041bd16ac076b3e426
+      internalID: -1311555873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_110
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c67c15c023e2ba4799f99288c033e57
+      internalID: 1782903227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_111
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 8
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f50c9ec22b42e1469cf311ad581cde2
+      internalID: 1070177510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_112
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8d27ea0d24e9d409456603d0bc8673
+      internalID: -1616024794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_113
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0b7ab6a11eee24a9d1c8ad302eb891
+      internalID: -1265366217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_114
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2611526ea6b1fd24ba6cc38848f9ee9f
+      internalID: 877094587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_115
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26b1679a3666964bbdb9188d10e826d
+      internalID: -1139238047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_116
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 8
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c895a3cdf639ea54bb6c72d4a7383d75
+      internalID: 1053468038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_117
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 8
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25604ee96d5abaf4c9b19ac268b5f19d
+      internalID: 836802198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_118
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 8
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006a34160cb89a44c86eea179cdc961c
+      internalID: 1089993749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_119
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 8
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545a5832bc83f5f4aafdc3ac9642ee07
+      internalID: -2098764383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_120
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 8
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009c52c4621134f43b75a5e5d14b5891
+      internalID: 157917476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_121
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 8
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b7335d8cb6e7645b62e8a0a314eaaf
+      internalID: 1472292394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175837bdb22a3084596ac14f61fd79e9
+      internalID: -885037415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_123
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b5cc6d35266a649b90203b1e229eb3
+      internalID: 1038237970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_124
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857df54bd0997f3429487301aa786ec5
+      internalID: -1123626835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_125
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3388f24d2abbcb4fbbebe2c3d17c123
+      internalID: -1377997684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_126
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8c5c83fe79ac84a89d0a27c8269150
+      internalID: 1541268916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_127
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d502aa26b58a412448c72bfb98261630
+      internalID: 129284335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_128
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096c3a07f84298f43a20b7d9ee544b0f
+      internalID: -1405744034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_129
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95b9e95d10322e4588c06ef386ceaff
+      internalID: -311784115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_130
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecde8db05788078409157326c17214bf
+      internalID: -274874025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_131
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce82efa841915a4c944aaf39c30ad50
+      internalID: -1893669648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_132
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58a3676470e0b14db8b9225965c29a0
+      internalID: 1743358568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_133
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 7
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467c8ae15f241984781827727849b066
+      internalID: -1906743835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_134
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 7
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9877d70829b2340b65ed6eee0af839
+      internalID: 1878890833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_135
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 7
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02feeea169019e4f8749f7460dfb1ca
+      internalID: -1079759817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_136
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 7
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081bf8d1fe62a4f439e335d5dae6cbb1
+      internalID: 1182337373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_137
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 7
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bc51d817ff14a4b988423154c5edd6
+      internalID: 1700124666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0740e358a8a27014aa04e70670769de3
+      internalID: 1945941887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_139
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b22d9fec5c20974a8827adeded0c55f
+      internalID: -15064501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_140
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497f0ef066d47584a8e40fca402503a1
+      internalID: -1693480140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_141
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a697a2d69aa8f4f83e2e87bc9e29c3
+      internalID: -1143622337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_142
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cacc15e291405644872ca25248a1e40
+      internalID: -496807787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_143
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46daa42aaab494b428644737f1bc5047
+      internalID: 2085745099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_144
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f2f3fc4a63e394e91ead4cde40fb13
+      internalID: 1641845471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_145
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d842ac0fcd0714187cfa1de5744052
+      internalID: 2141634437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_146
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3add11ed0c10194b943deb38dd8c64f
+      internalID: -1477144763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_147
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee13804cd5011f940b42ef648ca1192d
+      internalID: 1825663931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_148
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a25bac2367c7014485f22cc4858d882
+      internalID: 1819137282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_149
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d859cfcf61591749a4955c45896639b
+      internalID: 1776926495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_150
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9d8ce94ec06284f9278cc4e3bd483d
+      internalID: -2010518466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_151
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 6
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92c6c733f0f0b54aaeaa633842ccfd8
+      internalID: 31485971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_152
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 6
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0031ecd0c1bf3a478f54507cf9e60cb
+      internalID: 296064069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_153
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5235fcd726ad637449889f80106a5211
+      internalID: 104366870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9118fc3f77d27bf4b827f238b94e8670
+      internalID: -1933282154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_155
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5fa349c86cc3a4b930d62680902189
+      internalID: -625044107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_156
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6576103426519e45938d021d6fc2a39
+      internalID: 1756760036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_157
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d468e740887b76d459bd9c6757cf60da
+      internalID: 1323855725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_158
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaed1735c8148e74bb11b84e11cda051
+      internalID: 2090504068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_159
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d7aa7ceda59a2488117922ec21a425
+      internalID: -1462358609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_160
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3faea052a9e55b46b0bb31e508cc286
+      internalID: -720049302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_161
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dd952584a06dd49b054f855dcf5145
+      internalID: 1304783947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_162
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bfe67766c607b4e915bd7cb9cfb06c
+      internalID: 1615886227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_163
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340b2b22622906b4083298b30dca2d63
+      internalID: 1411755065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_164
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caebe16e5c5ce048a31cd40d12897f1
+      internalID: -179017661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_165
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d98d00ea65aedf4da6e3682f73db1c0
+      internalID: 486960236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_166
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 5
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf8f8284b181864c9dacf33f31242ba
+      internalID: -448544239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_167
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945e3f58e50dd9e498ed4eab5934552a
+      internalID: 1713473723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_168
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 5
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e376c67c695172343a1efaf54ae79bc6
+      internalID: -493386477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_169
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61397c64a42cbc4eac4e1cbaad05998
+      internalID: 1588925172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b461a204fa0c1e74c858965aba8624e2
+      internalID: 355140951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_171
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d7d15b14275d5408ee9ec39ed93594
+      internalID: 2122490365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_172
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6750a3d11eec6c14582fe80fb4cc6af8
+      internalID: -303108139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_173
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a019f2ff42f7f4da1befdc78ea9e9d
+      internalID: 1559327458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_174
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a0fe2859fa26b4692faccda9374dd2
+      internalID: 1164500032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_175
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ced6b8c5ea45d4f91ae7155d261c41
+      internalID: -1826550063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_176
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0f1c829635a6948abec2b803a3b8f3
+      internalID: -2090191551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_177
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8061df4d6c5be843a254625a278bf4e
+      internalID: -1750675034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_178
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a439500d0f4c26540b2dcb799072edab
+      internalID: 1972824827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_179
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c398922afdd1164d997f0c35ca1bc1d
+      internalID: -1831605362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_180
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087b3387c6bc4844aaade0ae1a73673c
+      internalID: 1464390143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_181
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7e8b4eb0339754798586c1564ce93b
+      internalID: -1172592401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_182
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d297f58998da57847afa2c060de4842d
+      internalID: -1197421077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_183
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 4
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f3143554202a847be940c0de295f4d
+      internalID: -1564308001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_184
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34305ecfb565e46429e69fb0832225ab
+      internalID: -1563017794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_185
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c405674822fd545a04c1703df801fc
+      internalID: -1730082829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168aa7ff6885a37418dfc22c1d745821
+      internalID: -1560605753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_187
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e966a195bb135e49a4e09eb3e51a216
+      internalID: -1599459330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_188
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89721b6f598ecb04693769b97d3cac13
+      internalID: -2125318012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_189
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61ab09c0f557b346af6c7c0fa7415a7
+      internalID: 1485350643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_190
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75385d506017894389a296858ce6822
+      internalID: 330697910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_191
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028c75641fc817a47b0d0dcd71f5212c
+      internalID: 86153269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_192
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df943d2e30f4795438b4f2c72517f48e
+      internalID: 28332303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_193
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e032ece18b9c284088c5191d10014f3
+      internalID: 773801047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_194
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844ca800e3822604c8107a3b03106d2a
+      internalID: -1680090918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_195
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db52c76402f799a47b23c5d9d3d22f83
+      internalID: -389880425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_196
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545cb10289accc244aae996d6ea8f976
+      internalID: -1850944757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_197
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd53e4ace4317644826e87e939c7659
+      internalID: 1938672272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_198
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f948bb831617064488d1e245ec0d3a53
+      internalID: 979823380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_199
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f786b1eefa4774087e309782bc38b9
+      internalID: -168937257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_200
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d76fdd1c95b2040800f75cf1a00b7e
+      internalID: -1358326303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_201
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beec1be8977d5b41bc33a03b52c4f73
+      internalID: 64415507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_202
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513242dd79a1cbc4985dca872529e1be
+      internalID: 991161801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_203
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffec34c460005e42aeefdedace6f550
+      internalID: -1029397784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_204
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbf1bb54f9a67e41a4e3c65ade5a073
+      internalID: -397759726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_205
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cee3ee8a34c232449c0770dbf3f3e5a
+      internalID: 67827101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_206
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afab4399b4c097b41a4ef0cd90a6e5cf
+      internalID: -432612931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_207
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1295cbf3089b4a44da25491e1c1a15c6
+      internalID: 1019285845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_208
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cec354534c6ef459104463fcc37da8
+      internalID: -1081911258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_209
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225fe9a128313924bab3fadcb59209e9
+      internalID: 1432337420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_210
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89661504425f4b540994c730551256c1
+      internalID: 239351065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_211
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6bc3b01e5df5b43955756853e23950
+      internalID: -1570202573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_212
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f9e323c4786b04bbaa9cf48f772ee9
+      internalID: 1502601022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_213
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c126d3433901af49bd33e17975e516e
+      internalID: -426571026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_214
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe63090ab34337d49bbfce86e478e530
+      internalID: -1425534269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_215
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73054e968d9b541428793d9d8f9a71b7
+      internalID: 1984414857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_216
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a81d474b98d384093ed011f979ae24
+      internalID: 1056019649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_217
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0b2fa850eb7474c9ccc77de40eb211
+      internalID: -484819014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_218
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b59b5bb9e048c45ae1837a59b39c12
+      internalID: -275542983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_219
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e0a26dcdc1230439cf901221700a38
+      internalID: -1729911066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_220
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba57ad6281cd8847a8b6725d85cbf21
+      internalID: 1074856922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_221
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdca38204d93f644c95fd494a23fdc53
+      internalID: 115537457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_222
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4477ccbf9e8283a46becc9e39b1c570c
+      internalID: 1871617978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_223
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17273f5d582d05340b6b5ba30ead3bb3
+      internalID: -1411136728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_224
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16e7ae684bcb2d4f88f1f3363883c1d
+      internalID: 1657641513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_225
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aa0b67a4fe3d44bbcf481741b436ed
+      internalID: -1400241020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_226
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2affab27bc892d74aa47ceab355df7b8
+      internalID: 240167928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_227
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf499e1e33e9cf8409c71a4053d4cd58
+      internalID: -354551246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_228
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb25f12ef3ab8cf488b122c743368ac3
+      internalID: 1625082919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_229
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3457dbff45c96b94197f7d143605781d
+      internalID: -216842451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_230
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a330ff4222d21f468461ef05854bd90
+      internalID: -777540503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_231
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abfe4608156a2942a8eaf1fe582106a
+      internalID: 246491689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_232
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3406ec9326bc540a4ff97f8fea477d
+      internalID: 588920504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_233
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4255553443d7f4382d66b556c1f784
+      internalID: 1511200351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_234
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4970c8a646970045a9339da53888bc1
+      internalID: 1880381733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_235
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fa8e17a20bb924689d6d5101d3ad61
+      internalID: 1583214722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_236
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5e43b6d3ea80c4da8a9bdc7beb93ce
+      internalID: -1537934263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_237
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37c03dd266456f4589b6c96bd2106c1
+      internalID: 501278310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_238
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e26840ffae41848b3d9232098dba2c
+      internalID: 144484455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_239
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1e9e1a5f3c41c4f9db1ea57a92180d
+      internalID: 1334037792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_240
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f66a18b355f9140b340328a24d24a8
+      internalID: 1427381881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_241
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95943c6237e664b42b3d69c4932ca552
+      internalID: -1149847579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_242
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20f4a439135b9f4c95a7764a6a8e82e
+      internalID: 780728380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToggleGold_243
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73114095592b96643be48eb52c1726cb
+      internalID: 2009458739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ToggleGold_0: -1016423272
+      ToggleGold_1: 711231649
+      ToggleGold_10: 870572219
+      ToggleGold_100: -112324516
+      ToggleGold_101: -425939803
+      ToggleGold_102: -739752118
+      ToggleGold_103: 2013502061
+      ToggleGold_104: 403522623
+      ToggleGold_105: 172686851
+      ToggleGold_106: 1073166823
+      ToggleGold_107: -1984820912
+      ToggleGold_108: 1953670290
+      ToggleGold_109: -1311555873
+      ToggleGold_11: 1926415290
+      ToggleGold_110: 1782903227
+      ToggleGold_111: 1070177510
+      ToggleGold_112: -1616024794
+      ToggleGold_113: -1265366217
+      ToggleGold_114: 877094587
+      ToggleGold_115: -1139238047
+      ToggleGold_116: 1053468038
+      ToggleGold_117: 836802198
+      ToggleGold_118: 1089993749
+      ToggleGold_119: -2098764383
+      ToggleGold_12: -1287785627
+      ToggleGold_120: 157917476
+      ToggleGold_121: 1472292394
+      ToggleGold_122: -885037415
+      ToggleGold_123: 1038237970
+      ToggleGold_124: -1123626835
+      ToggleGold_125: -1377997684
+      ToggleGold_126: 1541268916
+      ToggleGold_127: 129284335
+      ToggleGold_128: -1405744034
+      ToggleGold_129: -311784115
+      ToggleGold_13: -1473059002
+      ToggleGold_130: -274874025
+      ToggleGold_131: -1893669648
+      ToggleGold_132: 1743358568
+      ToggleGold_133: -1906743835
+      ToggleGold_134: 1878890833
+      ToggleGold_135: -1079759817
+      ToggleGold_136: 1182337373
+      ToggleGold_137: 1700124666
+      ToggleGold_138: 1945941887
+      ToggleGold_139: -15064501
+      ToggleGold_14: -1377416514
+      ToggleGold_140: -1693480140
+      ToggleGold_141: -1143622337
+      ToggleGold_142: -496807787
+      ToggleGold_143: 2085745099
+      ToggleGold_144: 1641845471
+      ToggleGold_145: 2141634437
+      ToggleGold_146: -1477144763
+      ToggleGold_147: 1825663931
+      ToggleGold_148: 1819137282
+      ToggleGold_149: 1776926495
+      ToggleGold_15: -1128922178
+      ToggleGold_150: -2010518466
+      ToggleGold_151: 31485971
+      ToggleGold_152: 296064069
+      ToggleGold_153: 104366870
+      ToggleGold_154: -1933282154
+      ToggleGold_155: -625044107
+      ToggleGold_156: 1756760036
+      ToggleGold_157: 1323855725
+      ToggleGold_158: 2090504068
+      ToggleGold_159: -1462358609
+      ToggleGold_16: 1471279030
+      ToggleGold_160: -720049302
+      ToggleGold_161: 1304783947
+      ToggleGold_162: 1615886227
+      ToggleGold_163: 1411755065
+      ToggleGold_164: -179017661
+      ToggleGold_165: 486960236
+      ToggleGold_166: -448544239
+      ToggleGold_167: 1713473723
+      ToggleGold_168: -493386477
+      ToggleGold_169: 1588925172
+      ToggleGold_17: -635671612
+      ToggleGold_170: 355140951
+      ToggleGold_171: 2122490365
+      ToggleGold_172: -303108139
+      ToggleGold_173: 1559327458
+      ToggleGold_174: 1164500032
+      ToggleGold_175: -1826550063
+      ToggleGold_176: -2090191551
+      ToggleGold_177: -1750675034
+      ToggleGold_178: 1972824827
+      ToggleGold_179: -1831605362
+      ToggleGold_18: -1916605968
+      ToggleGold_180: 1464390143
+      ToggleGold_181: -1172592401
+      ToggleGold_182: -1197421077
+      ToggleGold_183: -1564308001
+      ToggleGold_184: -1563017794
+      ToggleGold_185: -1730082829
+      ToggleGold_186: -1560605753
+      ToggleGold_187: -1599459330
+      ToggleGold_188: -2125318012
+      ToggleGold_189: 1485350643
+      ToggleGold_19: 808227888
+      ToggleGold_190: 330697910
+      ToggleGold_191: 86153269
+      ToggleGold_192: 28332303
+      ToggleGold_193: 773801047
+      ToggleGold_194: -1680090918
+      ToggleGold_195: -389880425
+      ToggleGold_196: -1850944757
+      ToggleGold_197: 1938672272
+      ToggleGold_198: 979823380
+      ToggleGold_199: -168937257
+      ToggleGold_2: 1871206002
+      ToggleGold_20: 307171345
+      ToggleGold_200: -1358326303
+      ToggleGold_201: 64415507
+      ToggleGold_202: 991161801
+      ToggleGold_203: -1029397784
+      ToggleGold_204: -397759726
+      ToggleGold_205: 67827101
+      ToggleGold_206: -432612931
+      ToggleGold_207: 1019285845
+      ToggleGold_208: -1081911258
+      ToggleGold_209: 1432337420
+      ToggleGold_21: 1730376112
+      ToggleGold_210: 239351065
+      ToggleGold_211: -1570202573
+      ToggleGold_212: 1502601022
+      ToggleGold_213: -426571026
+      ToggleGold_214: -1425534269
+      ToggleGold_215: 1984414857
+      ToggleGold_216: 1056019649
+      ToggleGold_217: -484819014
+      ToggleGold_218: -275542983
+      ToggleGold_219: -1729911066
+      ToggleGold_22: 1899437499
+      ToggleGold_220: 1074856922
+      ToggleGold_221: 115537457
+      ToggleGold_222: 1871617978
+      ToggleGold_223: -1411136728
+      ToggleGold_224: 1657641513
+      ToggleGold_225: -1400241020
+      ToggleGold_226: 240167928
+      ToggleGold_227: -354551246
+      ToggleGold_228: 1625082919
+      ToggleGold_229: -216842451
+      ToggleGold_23: 1078396446
+      ToggleGold_230: -777540503
+      ToggleGold_231: 246491689
+      ToggleGold_232: 588920504
+      ToggleGold_233: 1511200351
+      ToggleGold_234: 1880381733
+      ToggleGold_235: 1583214722
+      ToggleGold_236: -1537934263
+      ToggleGold_237: 501278310
+      ToggleGold_238: 144484455
+      ToggleGold_239: 1334037792
+      ToggleGold_24: 68761210
+      ToggleGold_240: 1427381881
+      ToggleGold_241: -1149847579
+      ToggleGold_242: 780728380
+      ToggleGold_243: 2009458739
+      ToggleGold_25: -939627591
+      ToggleGold_26: -1260033058
+      ToggleGold_27: 573362833
+      ToggleGold_28: 1774387879
+      ToggleGold_29: -548042795
+      ToggleGold_3: -159217538
+      ToggleGold_30: 1695596101
+      ToggleGold_31: -390514112
+      ToggleGold_32: 2132213239
+      ToggleGold_33: 1299679481
+      ToggleGold_34: -534231806
+      ToggleGold_35: -1269133542
+      ToggleGold_36: -1271287004
+      ToggleGold_37: 1103339371
+      ToggleGold_38: -637248460
+      ToggleGold_39: 613276033
+      ToggleGold_4: -99769215
+      ToggleGold_40: -950570108
+      ToggleGold_41: 1835923462
+      ToggleGold_42: -1909627005
+      ToggleGold_43: -257502159
+      ToggleGold_44: 2057441630
+      ToggleGold_45: -208194356
+      ToggleGold_46: 828516999
+      ToggleGold_47: -552153160
+      ToggleGold_48: -354064240
+      ToggleGold_49: -243662043
+      ToggleGold_5: 108763154
+      ToggleGold_50: -1588625448
+      ToggleGold_51: -1023763446
+      ToggleGold_52: 1935042979
+      ToggleGold_53: 551271726
+      ToggleGold_54: -1231923927
+      ToggleGold_55: -1843245625
+      ToggleGold_56: 993147143
+      ToggleGold_57: -1873999580
+      ToggleGold_58: 936646817
+      ToggleGold_59: 1883610226
+      ToggleGold_6: -2132305600
+      ToggleGold_60: -1614841081
+      ToggleGold_61: 982197338
+      ToggleGold_62: -202879678
+      ToggleGold_63: 571281364
+      ToggleGold_64: -1623926396
+      ToggleGold_65: 894639356
+      ToggleGold_66: 1581981381
+      ToggleGold_67: 1584221752
+      ToggleGold_68: 996120371
+      ToggleGold_69: 1793407023
+      ToggleGold_7: 628516381
+      ToggleGold_70: 1427421666
+      ToggleGold_71: -522904013
+      ToggleGold_72: -862367277
+      ToggleGold_73: 2036330108
+      ToggleGold_74: 1062693863
+      ToggleGold_75: 1451802116
+      ToggleGold_76: 1821764756
+      ToggleGold_77: 807746876
+      ToggleGold_78: -224088195
+      ToggleGold_79: -1590085709
+      ToggleGold_8: 1213465353
+      ToggleGold_80: -184712954
+      ToggleGold_81: -1946016517
+      ToggleGold_82: -2020668792
+      ToggleGold_83: -1803919741
+      ToggleGold_84: 59224887
+      ToggleGold_85: -657905480
+      ToggleGold_86: -1233508779
+      ToggleGold_87: 1199373133
+      ToggleGold_88: -1236428105
+      ToggleGold_89: -1303286202
+      ToggleGold_9: -1017447334
+      ToggleGold_90: 1197779141
+      ToggleGold_91: 1505878506
+      ToggleGold_92: 853311897
+      ToggleGold_93: -899235682
+      ToggleGold_94: -1440033416
+      ToggleGold_95: 1589252683
+      ToggleGold_96: -1457292471
+      ToggleGold_97: 1032901484
+      ToggleGold_98: 823724464
+      ToggleGold_99: 402748795
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

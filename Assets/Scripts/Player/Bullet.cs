@@ -1,25 +1,22 @@
-using PlayerSpace;
 using UnityEngine;
 
 namespace GunSpace
 {
 	public class Bullet : MonoBehaviour
 	{
-		[SerializeField] private float _bulletSpeed = 1f;
-		[SerializeField] private float _endBulletPositionX = 100f;
 		[SerializeField] private string[] _tags;
-
+		[SerializeField] private float _bulletSpeed = 200;
+		private Rigidbody2D _rb;
+		
 		private void Start()
 		{
-			if (Player.SingletonPlayer._isFlip)
-			{
-				_endBulletPositionX *= -1;
-			}
+			_rb = GetComponent<Rigidbody2D>();
 		}
 
 		private void Update()
 		{
-			gameObject.transform.position = Vector3.MoveTowards(gameObject.transform.position, new Vector3(_endBulletPositionX, gameObject.transform.position.y, gameObject.transform.position.z), _bulletSpeed * Time.deltaTime);
+			float direction = transform.rotation.y >= 0 ? 1 : -1;
+			_rb.velocity = new Vector2(direction * _bulletSpeed * Time.deltaTime, _rb.velocity.y);
 		}
 
 		private void OnTriggerEnter2D(Collider2D other)
@@ -28,7 +25,7 @@ namespace GunSpace
 			{
 				if (other.gameObject.tag == tag)
 				{
-					gameObject.SetActive(false);
+					Gun.ReturnObjectToPool(gameObject);
 				}
 			}
 		}
