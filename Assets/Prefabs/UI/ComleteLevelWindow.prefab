@@ -14,7 +14,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2301750036758882152, guid: 79df4909388a75b47815dd12cbff230c, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -49.2
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 2534086256612022928, guid: 79df4909388a75b47815dd12cbff230c, type: 3}
       propertyPath: m_Name
@@ -102,7 +102,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3202986802124564503, guid: 79df4909388a75b47815dd12cbff230c, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 450
+      value: 420
       objectReference: {fileID: 0}
     - target: {fileID: 4777752339827430496, guid: 79df4909388a75b47815dd12cbff230c, type: 3}
       propertyPath: m_text
@@ -110,7 +110,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4777752339827430496, guid: 79df4909388a75b47815dd12cbff230c, type: 3}
       propertyPath: m_fontSize
-      value: 50.7
+      value: 80.35
       objectReference: {fileID: 0}
     - target: {fileID: 6096734718661740868, guid: 79df4909388a75b47815dd12cbff230c, type: 3}
       propertyPath: m_text
@@ -118,15 +118,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6096734718661740868, guid: 79df4909388a75b47815dd12cbff230c, type: 3}
       propertyPath: m_fontSize
-      value: 59.75
+      value: 67.65
       objectReference: {fileID: 0}
     - target: {fileID: 6096734718661740868, guid: 79df4909388a75b47815dd12cbff230c, type: 3}
       propertyPath: m_margin.y
       value: 33.20105
       objectReference: {fileID: 0}
     - target: {fileID: 6273172123585666016, guid: 79df4909388a75b47815dd12cbff230c, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 130
+      objectReference: {fileID: 0}
+    - target: {fileID: 6273172123585666016, guid: 79df4909388a75b47815dd12cbff230c, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 90.9
+      value: 143
       objectReference: {fileID: 0}
     - target: {fileID: 6604856740953277602, guid: 79df4909388a75b47815dd12cbff230c, type: 3}
       propertyPath: m_text
@@ -138,7 +142,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8057872631427941916, guid: 79df4909388a75b47815dd12cbff230c, type: 3}
       propertyPath: m_fontSize
-      value: 44.25
+      value: 60.15
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8160866034470136644, guid: 79df4909388a75b47815dd12cbff230c, type: 3}

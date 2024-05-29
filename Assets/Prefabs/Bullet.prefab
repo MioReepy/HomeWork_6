@@ -134,12 +134,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e39f09e4b2c5cb469e281376a613911, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _barrel: {fileID: 0}
   _tags:
   - Ground
   - Enemy
   _bulletSpeed: 1500
-  _spawnInterval: 0.5
 --- !u!50 &3626597244892906950
 Rigidbody2D:
   serializedVersion: 4

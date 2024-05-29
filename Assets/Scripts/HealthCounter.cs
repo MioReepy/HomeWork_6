@@ -7,7 +7,7 @@ namespace GameManager
 {
 	public class HealthCounter : MonoBehaviour
 	{
-		[SerializeField] private GameObject _Heart;
+		[SerializeField] private GameObject _heart;
 		[SerializeField] private float _spawnInterval = 0.5f;
 		private float _timer;
 		
@@ -24,7 +24,7 @@ namespace GameManager
 		{
 			for (int i = 0; i < Player.SingletonPlayer._countHealth; i++)
 			{
-				Instantiate(_Heart).transform.SetParent(gameObject.transform);
+				Instantiate(_heart).transform.SetParent(gameObject.transform);
 			}
 		}
 
