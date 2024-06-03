@@ -12,7 +12,7 @@ namespace EnemySpace
 
 		public delegate void Hit();
 		public static event Hit OnHit;
-
+		
 		private void OnCollisionEnter2D(Collision2D other)
 		{
 			if (gameObject.name == "DeadEnemyCollider")
