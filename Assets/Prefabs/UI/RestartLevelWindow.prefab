@@ -504,7 +504,6 @@ GameObject:
   m_Component:
   - component: {fileID: 5046778824342135093}
   - component: {fileID: 176901065891795019}
-  - component: {fileID: 8768856927117335238}
   m_Layer: 5
   m_Name: RestartLevelWindow
   m_TagString: Untagged
@@ -549,21 +548,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _restartButton: {fileID: 5212291011259269212}
   _closeButton: {fileID: 8080070217561192539}
---- !u!114 &8768856927117335238
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5559671546257681270}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 48a13d767df699849b57efd7d2df08c6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _hightScale: 1.2
-  _duration: 0.5
-  _button: {fileID: 8080070217561192539}
 --- !u!1 &5827693221856820371
 GameObject:
   m_ObjectHideFlags: 0
